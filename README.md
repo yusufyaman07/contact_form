@@ -8,7 +8,8 @@ Greetings from a new project.In this project, we will send e-mails without using
 
 
 
-# Key Features: In this project, we can send any email we want to a specific email address without creating a js file.I wanted to use this method, which I discovered while browsing the w3school site, in a project.
+# Key Features:
+In this project, we can send any email we want to a specific email address without creating a js file.I wanted to use this method, which I discovered while browsing the w3school site, in a project.
 
 
 # Technologies: HTML,Css and JAVASCRİPT
